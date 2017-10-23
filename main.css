@@ -1,0 +1,50 @@
+
+body {
+  font-size: 15px;
+}
+h3 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+#buttonbox {
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+}
+#answers {
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+}
+#question {
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+}
+#questionBox {
+      margin: auto;
+      width: 50%;
+      border: 3px;
+      padding: 10px;
+}
+.input {
+  display: block;
+}
+#score{
+  font-weight: 600;
+  margin: auto;
+  text-align: center;
+  font-size: 30px;
+}
+#end {
+      width: 50%;
+      padding: 50px;
+      display: none;
+}
+.progress-bar-warning {
+  background-color: grey
+}
+#timeBar {
+  background-color: green
+}
